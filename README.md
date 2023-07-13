@@ -2,11 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000CD&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Eduardo+Matias;I'm+16+years+old;I'm+from+Brazil;I+am+software+developer;Be+welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img  width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Eduardo-Matias&show_icons=true&count_private=true&hide_border=true&title_color=6A5ACD&icon_color=FFD700&text_color=c9d1d9&bg_color=0d1117" alt="Eduardo Matias github stats" /> 
-</div>
-
-
 ### Contacts:
 <div align="left"> 
 <a href = "mailto:cmp.1a.eduardomatias413@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -16,10 +11,9 @@
  ### Main skills:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![React.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=reactdotjs&logoColor=%234FC08D) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) 
-
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
