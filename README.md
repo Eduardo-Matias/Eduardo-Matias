@@ -2,7 +2,7 @@
 
 # 👋 Hi there
 
-Programador web JavaScript
+Desenvolvedor web full-stack JavaScript
 
 <br/>
 
